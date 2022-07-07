@@ -20,3 +20,6 @@ end
 if game.PlaceId == 2788229376 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Yousuck780/aimlock-dh/main/aimlock%20dh", true))() 
 end
+if game.PlaceId == 1962086868 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yousuck780/toh/main/toh", true))()
+end
