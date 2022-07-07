@@ -1,16 +1,16 @@
 
 if game.PlaceId == 1215581239 then
-("https://raw.githubusercontent.com/Yousuck780/lfp/main/Doomspire")
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yousuck780/lfp/main/Doomspire"), true))()
 end
 if game.PlaceId == 621129760 then
-("https://raw.githubusercontent.com/Yousuck780/KAT/main/KAT")
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yousuck780/KAT/main/KAT"), true))()
 end
 if game.PlaceId == 8689257920 then
-("https://raw.githubusercontent.com/Yousuck780/Life-in-prison/main/lfp")
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yousuck780/Life-in-prison/main/lfp"), true))()
 end
 if game.PlaceId == 142823291 then
-("https://raw.githubusercontent.com/Yousuck780/mm2/main/mm2")
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yousuck780/mm2/main/mm2"), true))()
 end
 if game.PlaceId == 632574862 then
-("https://raw.githubusercontent.com/Yousuck780/eclipsis/main/eclipsis")
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yousuck780/eclipsis/main/eclipsis"), true))()
 end
