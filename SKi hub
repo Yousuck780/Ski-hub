@@ -17,3 +17,6 @@ end
 if game.PlaceId == 8123652942 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Yousuck780/Legend-Piece/main/lgp", true))() 
 end
+if game.PlaceId == 2788229376 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yousuck780/aimlock-dh/main/aimlock%20dh", true))() 
+end
