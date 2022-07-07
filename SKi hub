@@ -14,3 +14,6 @@ end
 if game.PlaceId == 632574862 then
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yousuck780/eclipsis/main/eclipsis"), true))()
 end
+if game.PlaceId == 8123652942 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yousuck780/Legend-Piece/main/lgp", true))() 
+end
