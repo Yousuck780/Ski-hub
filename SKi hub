@@ -1,16 +1,16 @@
 
-if game.PlaceId==1215581239 then
+if game.PlaceId == 1215581239 then
 ("https://raw.githubusercontent.com/Yousuck780/lfp/main/Doomspire")
 end
-if game.PlaceId==621129760 then
+if game.PlaceId == 621129760 then
 ("https://raw.githubusercontent.com/Yousuck780/KAT/main/KAT")
 end
-if game.PlaceId==8689257920 then
+if game.PlaceId == 8689257920 then
 ("https://raw.githubusercontent.com/Yousuck780/Life-in-prison/main/lfp")
 end
-if game.PlaceId==142823291 then
+if game.PlaceId == 142823291 then
 ("https://raw.githubusercontent.com/Yousuck780/mm2/main/mm2")
 end
-if game.PlaceId==632574862 then
+if game.PlaceId == 632574862 then
 ("https://raw.githubusercontent.com/Yousuck780/eclipsis/main/eclipsis")
 end
