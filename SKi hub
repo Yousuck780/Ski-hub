@@ -33,5 +33,7 @@ if game.PlaceId == 3527629287 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Yousuck780/BP/main/Big%20paintball", true))()
 end
 if game.PlaceId == 4588604953 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yousuck780/BP/main/Big%20paintball", true))()
+end
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Yousuck780/Criminality/main/Criminality", true))()
 end
